@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [Tamil Keyborad](https://sanjaymoorthy.github.io/Tamil-keyboard-Mobile-version/)
 
-- 🌱 I’m currently learning **Advance JavaScript, PHP**
+- 🌱 I’m currently learning **Advance JavaScript, PHP and design(figma)**
 
 - 💬 Ask me about **JavaScript, PHP**
 
 - 📫 How to reach me **sanjaymdckap@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
